@@ -1,0 +1,5 @@
+openai
+instructor
+python-dotenv
+chess
+pydantic
